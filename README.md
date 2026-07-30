@@ -22,11 +22,13 @@
 ## 👩‍💻 About Me
 
 - 🎓 Master's Degree in Computer Engineering – Jordan University of Science and Technology (JUST)
-- 💻 Software QA Engineer with a strong interest in building reliable, high-quality software
-- 🤖 Passionate about Artificial Intelligence, LLMs, and Machine Learning
-- 🌐 Full-Stack Developer focused on scalable web applications
-- 📄 Contributed to two Machine Learning research papers currently under review
-- 🚀 Always learning, building, and exploring new technologies
+- 💼 Software QA Engineer | AI Developer | Full-Stack Developer
+- 🤖 Passionate about Artificial Intelligence, LLMs, and Machine Learning, with strong analytical thinking, problem-solving skills, and exceptional attention to detail
+- 🔒 Interested in AI Security and LLM Applications
+- 📄 Contributed to **two Machine Learning research papers** currently under review
+- 💻 Built **10+ software projects** across AI, Full-Stack Development, and Software Testing
+- ⏳ Completed **250+ hours of practical technical training**
+- 🚀 **Eventora:** [Live Demo](https://eventora-mu-flame.vercel.app/)
 
 ---
 
@@ -75,50 +77,13 @@
 
 ---
 
-## 🏆 Achievements
-
-- 🎓 Master's Degree in Computer Engineering
-- 📄 Two Machine Learning Research Papers Under Review
-- 💻 10+ Software Projects
-- ⏳ 250+ Hours of Practical Technical Training
-
----
-
-## 🚀 Featured Projects
-
-### 🎫 Eventora
-
-Modern Full-Stack Event Booking Platform
-
-🔗 Live Demo
-
-https://eventora-mu-flame.vercel.app/
-
----
-
-### 🛡️ Prompt Injection Defense for Prompt-to-SQL Systems
-
-Master's Thesis
-
-Multi-Layer Defense Against Prompt Injection in LLM-Based Prompt-to-SQL Systems Using Stored Procedures.
-
----
-
-### 📊 SHAP Stability Index (SSI)
-
-Machine Learning Research
-
-Temporal Reliability of SHAP Explanations using the SHAP Stability Index.
-
----
-
 ## 📈 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=RahafRsq&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=RahafRsq&show_icons=true&theme=transparent&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahafRsq&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahafRsq&layout=compact&theme=transparent&hide_border=true"/>
 
 </p>
 
@@ -128,7 +93,7 @@ Temporal Reliability of SHAP Explanations using the SHAP Stability Index.
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=RahafRsq&theme=github-dark-blue&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=RahafRsq&theme=transparent&hide_border=true"/>
 
 </p>
 
@@ -138,7 +103,7 @@ Temporal Reliability of SHAP Explanations using the SHAP Stability Index.
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=RahafRsq&theme=algolia&no-frame=true&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=RahafRsq&theme=flat&no-frame=true&column=4"/>
 
 </p>
 
@@ -148,7 +113,7 @@ Temporal Reliability of SHAP Explanations using the SHAP Stability Index.
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RahafRsq&theme=github-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RahafRsq&theme=github-light&hide_border=true"/>
 
 </p>
 
