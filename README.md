@@ -123,17 +123,17 @@
 
 ## 📫 Connect With Me
 
-<p>
+<div align="center">
 
 <a href="https://github.com/RahafRsq">
-<img src="https://skillicons.dev/icons?i=github"/>
+  <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
 <a href="https://www.linkedin.com/in/rahaf-rsq/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+  <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-</p>
+</div>
 
 ---
 
@@ -141,6 +141,6 @@
 
 ![](https://komarev.com/ghpvc/?username=RahafRsq&style=for-the-badge)
 
-⭐ Thanks for visiting my profile!
+⭐ Thanks for stopping by!
 
 </div>
