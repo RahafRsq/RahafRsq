@@ -23,8 +23,7 @@
 
 - 🎓 Master's Degree in Computer Engineering – Jordan University of Science and Technology (JUST)
 - 💼 Software QA Engineer | AI Developer | Full-Stack Developer
-- 🤖 Passionate about Artificial Intelligence, LLMs, and Machine Learning, with strong analytical thinking, problem-solving skills, and exceptional attention to detail
-- 🔒 Interested in AI Security and LLM Applications
+- 🎯 Quality-driven with strong analytical thinking and attention to detail
 - 📄 Contributed to **two Machine Learning research papers** currently under review
 - 💻 Built **10+ software projects** across AI, Full-Stack Development, and Software Testing
 - ⏳ Completed **250+ hours of practical technical training**
