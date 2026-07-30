@@ -123,7 +123,7 @@
 
 ## 📫 Connect With Me
 
-<div align="center">
+<div >
 
 <a href="https://github.com/RahafRsq">
   <img src="https://skillicons.dev/icons?i=github"/>
@@ -137,7 +137,7 @@
 
 ---
 
-<div align="center">
+<div >
 
 ![](https://komarev.com/ghpvc/?username=RahafRsq&style=for-the-badge)
 
