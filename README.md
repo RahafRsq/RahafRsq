@@ -29,47 +29,53 @@
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,cs,php,dart" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,php,dart" />
 </p>
 
-### Frontend
+### 🎨 Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind,materialui,redux,vite,sass" />
 </p>
 
-### Backend
+### ⚙️ Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,laravel,spring,nestjs" />
 </p>
 
-### AI & Machine Learning
+### 🤖 AI & Machine Learning
 
 <p>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,anaconda" />
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 </p>
 
-### Databases
+### 🗄️ Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase" />
 </p>
 
-### QA & Development Tools
+### ☁️ Deployment
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,visualstudio,linux,bash,jenkins,gitlab,kubernetes" />
+<img src="https://skillicons.dev/icons?i=vercel,netlify,docker,git,github" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
+</p>
+
+### 🧪 QA & Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=postman,vscode,visualstudio,bash" />
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
 <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 </p>
-
 ---
 
 ## 📈 GitHub Statistics
