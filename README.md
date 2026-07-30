@@ -24,7 +24,7 @@
 - 🎓 Master's Degree in Computer Engineering – Jordan University of Science and Technology (JUST)
 - 💼 Software QA Engineer | AI Developer | Full-Stack Developer
 - 🎯 Quality-driven with strong analytical thinking and attention to detail
-- 📄 Contributed to **two Machine Learning research papers** currently under review
+- 📄 Contributed to two Machine Learning research papers currently under review
 - 💻 Built **10+ software projects** across AI, Full-Stack Development, and Software Testing
 - ⏳ Completed **250+ hours of practical technical training**
 - 🚀 **Eventora:** [Live Demo](https://eventora-mu-flame.vercel.app/)
