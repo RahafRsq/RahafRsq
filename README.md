@@ -115,15 +115,19 @@
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect with Me
 
-<div >
-
-<a href="https://www.linkedin.com/in/rahaf-rsq/">
-  <img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-</div>
+<p align="center">
+  <a href="mailto:Rahafrsq719@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/rahaf-rsq/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/RahafRsq">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
