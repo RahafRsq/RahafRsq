@@ -1,8 +1,6 @@
 <div align="center">
 
-<p>
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Software+QA+Engineer;AI+Developer;Full-Stack+Developer;Machine+Learning+Researcher" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=32&duration=3500&pause=1200&color=2563EB&center=true&vCenter=true&repeat=true&random=false&width=850&height=65&lines=Software+QA+Engineer;AI+Developer;Full-Stack+Developer;Machine+Learning+Researcher" alt="Typing SVG" />
 
 <p>
 <img src="https://img.shields.io/badge/Software_QA-2563EB?style=for-the-badge" />
@@ -12,12 +10,11 @@
 </p>
 
 </div>
-
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 Master's Degree in Computer Engineering – Jordan University of Science and Technology (JUST)
+- 🎓 Master's Degree in Computer Engineering – Jordan University of Science and Technology
 - 💼 Software QA Engineer | AI Developer | Full-Stack Developer
 - 🎯 Quality-driven with strong analytical thinking and attention to detail
 - 📄 Contributed to two Machine Learning research papers currently under review
