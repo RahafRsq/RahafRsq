@@ -118,10 +118,9 @@
 
 ## 📫 Connect with Me
 
-<p align="center">
-  <a href="mailto:Rahafrsq719@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<a href="mailto:Rahafrsq719@hotmail.com">
+  <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
+</a>
   <a href="https://www.linkedin.com/in/rahaf-rsq/">
     <img src="https://img.shields.io/badge/LinkedIn-1E40AF?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
