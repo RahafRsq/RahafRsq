@@ -38,7 +38,7 @@
 ### 🧪 QA & Development Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=postman,vscode,visualstudio,bash" />
+<img src="https://skillicons.dev/icons?i=postman,vscode,visualstudio,bash,docker" />
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
 <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge"/>
@@ -48,13 +48,14 @@
 ### 🎨 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind,materialui,redux,vite,sass" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind,materialui,redux,vite,sass,vercel" />
 </p>
 
 ### ⚙️ Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,laravel,spring,nestjs" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
 </p>
 
 ### 🤖 AI & Machine Learning
@@ -68,13 +69,6 @@
 
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase" />
-</p>
-
-### ☁️ Deployment
-
-<p>
-<img src="https://skillicons.dev/icons?i=vercel,netlify,docker,git,github" />
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
 </p>
 
 ---
