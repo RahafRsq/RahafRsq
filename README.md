@@ -1,14 +1,19 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=32&duration=3500&pause=1200&color=2563EB&center=true&vCenter=true&repeat=true&random=false&width=850&height=65&lines=Software+QA+Engineer;AI+Developer;Full-Stack+Developer;Machine+Learning+Researcher" alt="Typing SVG" />
+<img
+  src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&duration=4000&pause=1500&color=3B82F6&center=true&vCenter=true&width=900&height=70&lines=Software+QA+Engineer;AI+Developer;Full-Stack+Developer;Machine+Learning+Researcher"
+  alt="Typing SVG"
+/>
 
 <p>
-<img src="https://img.shields.io/badge/Software_QA-2563EB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Full--Stack-0EA5E9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Software_QA-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Full--Stack-0EA5E9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine_Learning-F59E0B?style=for-the-badge" />
 </p>
 
 </div>
+
 ---
 
 ## 👩‍💻 About Me
