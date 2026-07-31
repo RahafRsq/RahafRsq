@@ -22,7 +22,7 @@ Computer Engineer with a Master's degree specializing in Software Quality Assura
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 
