@@ -119,10 +119,6 @@
 
 <div >
 
-<a href="https://github.com/RahafRsq">
-  <img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
 <a href="https://www.linkedin.com/in/rahaf-rsq/">
   <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
