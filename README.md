@@ -24,13 +24,13 @@ Computer Engineer with a Master's degree specializing in Software Quality Assura
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+### Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,php,dart" />
 </p>
 
-### 🧪 QA & Development Tools
+### QA & Development Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=postman,vscode,visualstudio,bash,docker" />
@@ -40,27 +40,27 @@ Computer Engineer with a Master's degree specializing in Software Quality Assura
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 </p>
 
-### 🎨 Frontend
+### Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind,redux,vite,vercel" />
 </p>
 
-### ⚙️ Backend
+### Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,laravel,spring,nestjs" />
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
 </p>
 
-### 🤖 AI & Machine Learning
+### AI & Machine Learning
 
 <p>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,anaconda" />
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 </p>
 
-### 🗄️ Databases
+### Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase" />
@@ -68,7 +68,7 @@ Computer Engineer with a Master's degree specializing in Software Quality Assura
 
 ---
 
-## 📈 GitHub Statistics
+## GitHub Statistics
 
 <p align="center">
 
@@ -80,7 +80,7 @@ Computer Engineer with a Master's degree specializing in Software Quality Assura
 
 ---
 
-## 🔥 GitHub Streak
+## GitHub Streak
 
 <p align="center">
 
@@ -90,7 +90,7 @@ Computer Engineer with a Master's degree specializing in Software Quality Assura
 
 ---
 
-## 🏅 GitHub Trophies
+## GitHub Trophies
 
 <p align="center">
 
@@ -100,7 +100,7 @@ Computer Engineer with a Master's degree specializing in Software Quality Assura
 
 ---
 
-## 📊 Contribution Graph
+## Contribution Graph
 
 <p align="center">
 
@@ -110,7 +110,7 @@ Computer Engineer with a Master's degree specializing in Software Quality Assura
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 
 <p>
   <a href="mailto:Rahafrsq719@hotmail.com">
@@ -129,6 +129,6 @@ Computer Engineer with a Master's degree specializing in Software Quality Assura
 
 ![](https://komarev.com/ghpvc/?username=RahafRsq&style=for-the-badge)
 
-⭐ Thanks for stopping by!
+Thanks for stopping by!
 
 </div>
