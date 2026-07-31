@@ -35,6 +35,16 @@
 <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,php,dart" />
 </p>
 
+### 🧪 QA & Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=postman,vscode,visualstudio,bash" />
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+<img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+</p>
+
 ### 🎨 Frontend
 
 <p>
@@ -65,16 +75,6 @@
 <p>
 <img src="https://skillicons.dev/icons?i=vercel,netlify,docker,git,github" />
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
-</p>
-
-### 🧪 QA & Development Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=postman,vscode,visualstudio,bash" />
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-<img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 </p>
 
 ---
