@@ -48,7 +48,7 @@
 ### 🎨 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind,redux,vite,sass,vercel" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind,redux,vite,vercel" />
 </p>
 
 ### ⚙️ Backend
