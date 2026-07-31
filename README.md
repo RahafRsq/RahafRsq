@@ -6,7 +6,6 @@
 <img src="https://img.shields.io/badge/Software_QA-2563EB?style=for-the-badge" />
 <img src="https://img.shields.io/badge/AI-7C3AED?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Full--Stack-0EA5E9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Machine_Learning-F59E0B?style=for-the-badge" />
 </p>
 
 </div>
