@@ -17,7 +17,6 @@
 ---
 
 ## About Me
-
 Computer Engineer with a Master's degree specializing in Software Quality Assurance, AI, and Full-Stack Development. Passionate about building reliable, scalable, and intelligent software solutions, with hands-on experience gained through 10+ projects and 250+ hours of practical training.
 
 ---
