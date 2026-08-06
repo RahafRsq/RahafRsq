@@ -33,7 +33,7 @@ Computer Engineer with a Master's degree specializing in Software Quality Assura
 ### QA & Development Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=postman,vscode,visualstudio,bash,docker" />
+<img src="https://skillicons.dev/icons?i=postman,vscode,visualstudio,bash,docker,devops" />
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
 <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge"/>
