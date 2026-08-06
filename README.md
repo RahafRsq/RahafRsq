@@ -68,48 +68,6 @@ Computer Engineer with a Master's degree specializing in Software Quality Assura
 
 ---
 
-## GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=RahafRsq&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahafRsq&layout=compact&theme=transparent&hide_border=true"/>
-
-</p>
-
----
-
-## GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=RahafRsq&theme=transparent&hide_border=true"/>
-
-</p>
-
----
-
-## GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=RahafRsq&theme=flat&no-frame=true&column=4"/>
-
-</p>
-
----
-
-## Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RahafRsq&theme=github-light&hide_border=true"/>
-
-</p>
-
----
-
 ## Connect with Me
 
 <p>
