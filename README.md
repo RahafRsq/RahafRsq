@@ -80,13 +80,4 @@ Computer Engineer with a Master's degree specializing in Software Quality Assura
   </a>
 </p>
 
----
-
-<div >
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=RahafRsq&style=for-the-badge)
-
-Thanks for stopping by!
-
 </div>
