@@ -57,6 +57,12 @@ alt="Computer Engineer"
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
+
 
 </div>
 
