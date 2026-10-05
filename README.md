@@ -4,6 +4,7 @@
 src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=36&duration=3800&pause=1500&color=2563EB&center=true&vCenter=true&width=900&height=70&lines=Computer+Engineer"
 alt="Computer Engineer"
 />
+<div align="left">
 
 ## <img src="https://api.iconify.design/lucide:code-2.svg?color=%232563EB" width="20" height="20" /> Tech Stack
 
