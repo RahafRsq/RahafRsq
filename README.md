@@ -5,16 +5,6 @@ src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=36&durati
 alt="Computer Engineer"
 />
 
-<p>
-  <img src="https://img.shields.io/badge/AI-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FS-0EA5E9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/QA-2563EB?style=for-the-badge" />
-</p>
-
-</div>
-
-
-
 ## <img src="https://api.iconify.design/lucide:code-2.svg?color=%232563EB" width="20" height="20" /> Tech Stack
 
 <div align="left">
