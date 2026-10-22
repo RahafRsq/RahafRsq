@@ -1,13 +1,14 @@
 <div align="center">
 
 <h1>
-  <img src="https://api.iconify.design/lucide:code-2.svg?color=%232563EB" width="28" alt="" />
+  <img src="https://api.iconify.design/lucide/code-2.svg?color=%232563EB" width="28" alt="Code" />
   Build it,
-  <img src="https://api.iconify.design/lucide:scan-eye.svg?color=%23059669" width="28" alt="" />
+  <img src="https://api.iconify.design/lucide/scan-eye.svg?color=%23059669" width="28" alt="Test" />
   Test it,
-  <img src="https://api.iconify.design/lucide:brain-circuit.svg?color=%239333EA" width="28" alt="" />
+  <img src="https://api.iconify.design/lucide/brain-circuit.svg?color=%239333EA" width="28" alt="AI" />
   Make it intelligent.
 </h1>
+
 <div align="center">
   <!-- Full Stack -->
   <img src="https://skillicons.dev/icons?i=js,nextjs,tailwind,nodejs,mongodb,postgres&amp;theme=dark" alt="JavaScript, Next.js, Tailwind CSS, Node.js, MongoDB, PostgreSQL" />
